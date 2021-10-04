@@ -1,0 +1,50 @@
+Order Method,Product Name,Product Category,Unit Price,Product Cost,Quantity Ordered,Net Product,Tax,Shipping Charge,Total Order
+Phone,Buffalo,Backpack,249,86,1,249,15.56,10,274.56
+Web,Donkey,Backpack,149,46,1,149,9.31,12,170.31
+Phone,Goblin,Sleeping Bag,129,17,1,129,8.06,10,147.06
+Web,Hammerhead,Sleeping Bag,149,30,1,149,9.31,20,178.31
+Phone,Helium,Tent,249,54,1,249,15.56,11,275.56
+Web,Helium,Tent,249,54,1,249,15.56,15,279.56
+Web,Hydrogen,Tent,299,69,1,299,18.69,25,342.69
+Web,Krypton,Tent,349,71,1,349,21.81,28,398.81
+Web,Lithium,Tent,449,100,1,449,28.06,18,495.06
+Web,Oxygen,Tent,249,53,1,249,15.56,16,280.56
+Web,Palladium,Tent,299,61,1,299,18.69,19,336.69
+Web,Palladium,Tent,299,61,1,299,18.69,8,325.69
+Phone,Sherpa,Backpack,299,104,1,299,18.69,19,336.69
+Web,Silvertip,Sleeping Bag,169,21,1,169,10.56,8,187.56
+Web,Argon,Tent,199,29,1,199,12.44,14,225.44
+Web,Argon,Tent,199,29,1,199,12.44,14,225.44
+Web,Buffalo,Backpack,249,86,1,249,15.56,23,287.56
+Web,Camel,Backpack,49,14,1,49,3.06,15,67.06
+Web,Donkey,Backpack,149,46,1,149,9.31,8,166.31
+Web,Elephant,Backpack,219,69,1,219,13.69,26,258.69
+Web,Elephant,Backpack,219,69,1,219,13.69,26,258.69
+Web,Elephant,Backpack,219,69,1,219,13.69,10,242.69
+Web,Goat,Backpack,99,26,1,99,6.19,11,116.19
+Web,Hydrogen,Tent,299,69,1,299,18.69,10,327.69
+Web,Mako,Sleeping Bag,199,42,1,199,12.44,8,219.44
+Web,Monkey,Backpack,79,22,1,79,4.94,14,97.94
+Phone,Ox,Backpack,179,57,1,179,11.19,16,206.19
+Web,Palladium,Tent,299,61,1,299,18.69,14,331.69
+Phone,Sawback,Sleeping Bag,199,38,1,199,12.44,10,221.44
+Web,Sawback,Sleeping Bag,199,38,1,199,12.44,15,226.44
+Web,Tiger,Sleeping Bag,249,33,1,249,15.56,18,282.56
+Web,Camel,Backpack,49,14,1,49,3.06,3,55.06
+Phone,Goat,Backpack,99,26,1,99,6.19,8,113.19
+Web,Goat,Backpack,99,26,1,99,6.19,10,115.19
+Web,Goat,Backpack,99,26,1,99,6.19,11,116.19
+Web,Hammerhead,Sleeping Bag,149,30,1,149,9.31,10,168.31
+Web,Helium,Tent,249,54,1,249,15.56,11,275.56
+Web,Hydrogen,Tent,299,69,1,299,18.69,34,351.69
+Web,Hydrogen,Tent,299,69,1,299,18.69,25,342.69
+Web,Llama,Backpack,99,32,1,99,6.19,10,115.19
+Phone,Mako,Sleeping Bag,199,42,1,199,12.44,13,224.44
+Web,Mule,Backpack,179,56,1,179,11.19,15,205.19
+Web,Ox,Backpack,179,57,1,179,11.19,10,200.19
+Web,Sherpa,Backpack,299,104,1,299,18.69,17,334.69
+Web,Sherpa,Backpack,299,104,1,299,18.69,8,325.69
+Web,Titanium,Tent,549,159,1,549,34.31,27,610.31
+Web,Argon,Tent,199,29,1,199,12.44,8,219.44
+Web,Argon,Tent,199,29,1,199,12.44,8,219.44
+Phone,Elephant,Backpack,219,69,1,219,13.69,18,250.69
